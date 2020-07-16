@@ -60,3 +60,5 @@ slic-config.json
 *.gitignored
 
 .webpack/
+
+tmp/
